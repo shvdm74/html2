@@ -1,0 +1,46 @@
+#ra1 {
+	max-width:1200px;
+	min-width: 600px;  
+	height: auto;
+	background: #bbbbbb;
+	border: 1px solid #000000;
+	overflow: hidden;
+
+}
+
+#ra2 {
+	width: 240px;
+	height: 60px;
+	padding: 16px 16px;
+	margin-left: 36px;
+	margin-top: 36px;
+	background: #986960;
+	border: 2px solid #442d25;
+	border-radius: 20px 20px;
+	color: 	#003153;
+	float: left;
+}
+#ra3 {
+	width: 440px;
+	height: 60px;
+	padding: 16px 16px;
+	margin: 24px 36px;
+	background: #fff0f5;
+	border: 2px solid #442d25;
+	color: 	#003153;
+    float: left;
+
+
+}
+#ra4 {
+	width: 240px;
+	height: 60px;
+	padding: 16px 16px;
+	margin: 24px 36px;
+	background: #fdeaa8;
+	border: 2px solid #442d25;
+	color: 	#003153;
+    float: left;
+
+
+}
